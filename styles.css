@@ -19,6 +19,8 @@ background: #FFF;
 img {
   width: 153px;
   height: 95px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
   
 }
 
@@ -33,6 +35,6 @@ h1 {
 }
 
 div:hover{
-  box-shadow: 0px 5px 5px 5px rgba(0, 0, 0, 0.5);
+  box-shadow: 5px 5px 10px 0px #c7c7c6;
 
 }
